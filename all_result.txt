@@ -1,0 +1,11 @@
+filename	specificity	sensitivity	accuracy	auc
+result_extra_validation_cezanne.txt	99.84%	98.91%	99.38%	1.000
+result_extra_validation_monet.txt	96.27%	99.69%	97.98%	0.999
+result_extra_validation_ukiyoe.txt	97.98%	100.00%	98.99%	1.000
+result_extra_validation_vangogh.txt	84.47%	99.69%	92.08%	0.993
+result_extra_validation_random.txt	90.37%	99.84%	95.11%	0.998
+result_test_cezanne.txt	94.32%	97.93%	96.11%	0.995
+result_test_monet.txt	90.02%	98.60%	94.27%	0.995
+result_test_ukiyoe.txt	96.71%	99.15%	97.92%	0.998
+result_test_vangogh.txt	86.31%	99.27%	92.74%	0.993
+result_test_random.txt	74.97%	99.45%	87.09%	0.987
